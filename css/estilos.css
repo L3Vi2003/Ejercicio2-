@@ -12,16 +12,15 @@ body {
   height: 80vh;
 }
 
-/* Caja lateral */
 .lateral {
   background-color: #7dd9f2;
   flex: 1;
   padding: 10px;
 }
 
-/* Caja principal */
 .principal {
   background-color: #b7d3cd;
   flex: 3;
   padding: 10px;
 }
+
